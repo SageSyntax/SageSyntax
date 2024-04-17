@@ -4,7 +4,7 @@
 
 <h1 align="center">📈 Github Statistic 📊</h1>
 <p align="center">
-  <a href="https://github.com/azharrizkiz">
+  <a href="https://github.com/SageSyntax">
     <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SageSyntax&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
     <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SageSyntax&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
     <img width="49.1%" src="https://github-readme-streak-stats.herokuapp.com/?user=SageSyntax&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
