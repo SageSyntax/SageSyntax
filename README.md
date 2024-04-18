@@ -12,3 +12,10 @@
     <img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=SageSyntax&theme=react-dark&bg_color=000000&color=FFFFFF"/>
   </a>
 </p>
+
+<h1 align="center">🐍 Snake 🐛</h1>
+<p align="center">
+  <a href="https://github.com/SageSyntax">
+    <img width="100%" src="https://github.com/AzharRizkiZ/AzharRizkiZ/blob/snek-output/github-contribution-grid-snake-dark.svg">
+  </a>
+</p>
