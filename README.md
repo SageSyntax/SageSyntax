@@ -34,3 +34,30 @@
     <img width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=s8m2880ybgj1hothgzski3ypi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
+
+---
+<p align="center">
+  <a href="https://github.com/SageSyntax/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=SageSyntax&label=Profile%20views&style=flat-square" alt="SageSyntax"/>
+    <img src="https://img.shields.io/badge/isActive-true-blue?style=flat-square" alt="SageSyntax"/>
+    <!-- <img src="https://badges.pufler.dev/years/SageSyntax?style=flat-square" alt="Years Badge"/> -->
+    <!-- <img src="https://badges.pufler.dev/repos/SageSyntax?style=flat-square" alt="Repos Badge"/> -->
+    <!-- <img src="https://badges.pufler.dev/gists/SageSyntax?style=flat-square" alt="Gists Badge"/> -->
+    <!-- <img src="https://badges.pufler.dev/commits/monthly/SageSyntax?style=flat-square" alt="Commits Badge"/> -->
+    <img src="https://img.shields.io/github/followers/SageSyntax?style=social" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/stars/SageSyntax?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
+    <img src="https://img.shields.io/github/stars/Mineversal?label=Organization+stars&style=social" alt="GitHub Organization's stars"/>
+  </a>
+  <!--
+  <img src="https://gpvc.arturio.dev/SageSyntax" alt="Profile Views" height="20">
+  <a href="https://badges.pufler.dev" target="_blank">
+      <img src="https://badges.pufler.dev/created/SageSyntax/SageSyntax?style=flat-square" alt="Created Badge"/>
+  </a>
+  <a href="https://badges.pufler.dev" target="_blank">
+      <img src="https://badges.pufler.dev/updated/SageSyntax/SageSyntax?style=flat-square" alt="Update Badge"/>
+  </a>
+  <a href="https://github.com/azharrizkiz/" target="_blank">
+      <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square" alt="SageSyntax"/>
+  </a>
+  -->
+</p>
