@@ -19,3 +19,18 @@
     <img width="100%" src="https://github.com/SageSyntax/SageSyntax/blob/snek-output/github-contribution-grid-snake-dark.svg">
   </a>
 </p>
+
+
+<h1 align="center">🎨 Artwork 🖼️</h1>
+<p align="center">
+  <a href="https://github.com/SageSyntax">
+    <img width="100%" src="./gitartwork.svg">
+  </a>
+</p>
+
+<h1 align="center">🎶 Listen Now 🎧</h1>
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=s8m2880ybgj1hothgzski3ypi&redirect=true">
+    <img width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=s8m2880ybgj1hothgzski3ypi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
