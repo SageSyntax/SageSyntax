@@ -46,7 +46,6 @@
     <!-- <img src="https://badges.pufler.dev/commits/monthly/SageSyntax?style=flat-square" alt="Commits Badge"/> -->
     <img src="https://img.shields.io/github/followers/SageSyntax?style=social" alt="GitHub followers"/>
     <img src="https://img.shields.io/github/stars/SageSyntax?affiliations=OWNER%2CCOLLABORATOR&label=User+stars&style=social" alt="GitHub User's stars"/>
-    <img src="https://img.shields.io/github/stars/Mineversal?label=Organization+stars&style=social" alt="GitHub Organization's stars"/>
   </a>
   <!--
   <img src="https://gpvc.arturio.dev/SageSyntax" alt="Profile Views" height="20">
