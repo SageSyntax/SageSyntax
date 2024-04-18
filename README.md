@@ -16,6 +16,6 @@
 <h1 align="center">🐍 Snake 🐛</h1>
 <p align="center">
   <a href="https://github.com/SageSyntax">
-    <img width="100%" src"https://github.com/SageSyntax/SageSyntax/blob/snek-output/github-contribution-grid-snake-dark.svg">
+    <img width="100%" src="https://github.com/SageSyntax/SageSyntax/blob/snek-output/github-contribution-grid-snake-dark.svg">
   </a>
 </p>
